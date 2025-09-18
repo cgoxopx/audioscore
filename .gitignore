@@ -1,0 +1,8 @@
+*.out
+*.log
+*.pyc
+.vscode/*
+ckpts/*
+pretrain/*
+*.json
+*.pth

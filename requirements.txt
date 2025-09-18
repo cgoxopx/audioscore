@@ -1,0 +1,9 @@
+librosa
+numba
+numpy
+pyworld
+resampy
+scipy
+torch
+tqdm
+transformers
