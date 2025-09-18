@@ -40,7 +40,7 @@ def process_audio(input_path, output_dir, threshold=0.01, frame_size=1024, segme
     total_samples = len(data)
     segment_samples = int(segment_duration * sr)
     
-    print(f"处理�***REMOVED***始: {input_path}")
+    print(f"处理开始: {input_path}")
     print(f"采样率: {sr}Hz, 总时长: {total_samples/sr:.1f}秒")
     print(f"使用阈值: {threshold:.3f}, 帧大小: {frame_size}采样点")
 

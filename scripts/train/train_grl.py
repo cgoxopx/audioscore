@@ -70,5 +70,5 @@ if __name__ == "__main__":
     trainer.gm = 0.1
     # trainer.use_pitch_feature = True
     
-    # �***REMOVED***始训练
+    # 开始训练
     trainer.train()
